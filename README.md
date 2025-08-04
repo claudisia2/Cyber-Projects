@@ -1,3 +1,8 @@
+# LLM Powered Chatbots - Risk Assessment
+Delivered a report assessing the risks associated with implementing LLM-powered chatbots, highlighting how
+they can introduce significant vulnerabilities that are susceptible to exploitation. The report also outlined
+potential mitigation strategies to support the fair and secure use of LLMs in the future.
+
 # MachineLearning
 Machine Learning notebooks about malicious attacks against IoT devices.
 
